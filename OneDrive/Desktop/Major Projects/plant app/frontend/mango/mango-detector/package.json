@@ -1,0 +1,33 @@
+{
+  "name": "mango-detector",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-picker/picker": "2.11.1",
+    "expo": "~53.0.17",
+    "expo-image-picker": "~16.1.4",
+    "expo-localization": "^16.1.6",
+    "expo-router": "~5.1.3",
+    "expo-status-bar": "~2.2.3",
+    "i18next": "^25.3.1",
+    "i18next-browser-languagedetector": "^8.2.0",
+    "react": "19.0.0",
+    "react-i18next": "^15.6.0",
+    "react-native": "0.79.5",
+    "expo-media-library": "~17.1.7",
+    "expo-camera": "~16.1.10",
+    "react-native-reanimated": "~3.17.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}

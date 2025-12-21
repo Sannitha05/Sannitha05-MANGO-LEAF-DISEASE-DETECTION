@@ -1,0 +1,101 @@
+{
+  "home": {
+    "title": "आम रोग पहचानकर्ता",
+    "uploadPrompt": "अपने पत्ते की फोटो अपलोड करें या लें",
+    "or": "या",
+    "analyzing": "छवि का विश्लेषण किया जा रहा है...",
+    "predictedDisease": "अनुमानित रोग",
+    "diseaseInfo": "रोग जानकारी",
+    "selectDisease": "रोग चुनें",
+    "confidenceBreakdown": "विश्वास स्तर विभाजन",
+    "anthracnose": "एंथ्रेक्नोज",
+    "powderyMildew": "पाउडरी मिल्ड्यू",
+    "bacterialCanker": "बैक्टीरियल कैंकर",
+    "sootyMold": "सूट्टी मोल्ड",
+    "dieBack": "डाई बैक",
+    "Remove": "हटाएं",
+    "Confidence": "विश्वास"
+  },
+  "buttons": {
+    "upload": "छवि अपलोड करें",
+    "camera": "फोटो लें",
+    "analyse": "विश्लेषण करें"
+  },
+  "alerts": {
+    "permissionRequired": "मीडिया लाइब्रेरी तक पहुंच की अनुमति आवश्यक है!",
+    "apiError": "छवि का विश्लेषण करते समय त्रुटि हुई। कृपया पुनः प्रयास करें।"
+  },
+  "nav": {
+    "home": "होम",
+    "history": "इतिहास",
+    "learn": "सीखें",
+    "settings": "सेटिंग्स"
+  },
+  "diseases": {
+    "anthracnose": "एंथ्रेक्नोज एक फंगल रोग है जो कई पौधों को प्रभावित करता है। यह अंधेरे, धंसे हुए घावों का कारण बनता है और नम वातावरण में पनपता है।",
+    "powderyMildew": "पाउडरी मिल्ड्यू एक सफेद, चूर्ण जैसी फंगल परत होती है जो पत्तियों और तनों पर उगती है। यह शुष्क, गर्म और आर्द्रता वाले वातावरण में पनपती है।",
+    "bacterialCanker": "बैक्टीरियल कैंकर तनों और पत्तियों पर काले घाव और दरारें पैदा करता है, जिससे मुरझाना और पत्तियों का गिरना होता है।",
+    "sootyMold": "सूट्टी मोल्ड एक काली फंगल परत है जो कीड़ों के हनीड्यू के कारण पत्तियों पर बनती है। यह सूर्यप्रकाश को रोकती है और प्रकाश संश्लेषण को कम करती है।",
+    "dieBack": "डाई बैक एक क्रमिक रूप से टहनियों और शाखाओं की मृत्यु का कारण बनता है, जो आमतौर पर फंगल संक्रमण या पर्यावरणीय तनाव के कारण होता है।"
+  },
+ 
+  "history": {
+    "title": "इतिहास",
+    "message": "सभी पहले विश्लेषण किए गए परिणाम यहां दिखाई देंगे।"
+  },
+  "learn": {
+  "title": "आम रोगों के बारे में जानें",
+  "description": "विभिन्न आम रोगों, उनके लक्षणों और उपचार विकल्पों का अन्वेषण करें। अधिक जानने के लिए किसी रोग पर क्लिक करें।",
+  "symptoms": "लक्षण",
+  "treatment": "उपचार",
+  "more": "अधिक जानकारी",
+  "showMore": "और दिखाएं",
+  "hideDetails": "विवरण छिपाएं",
+  "White powdery spots on leaves and buds.": "पत्तियों और कलियों पर सफेद पाउडरी धब्बे।",
+  "Apply sulfur-based fungicides.": "सल्फर आधारित कवकनाशी का उपयोग करें।",
+  "Ensure good air circulation and avoid overhead watering.": "अच्छी वायु परिसंचरण सुनिश्चित करें और ऊपर से पानी देने से बचें।",
+  "Black lesions on fruits and leaves.": "फलों और पत्तियों पर काले घाव।",
+  "Use copper-based fungicides.": "तांबे आधारित कवकनाशी का उपयोग करें।",
+  "Remove and destroy infected plant parts.": "संक्रमित पौधों के हिस्सों को हटा दें और नष्ट करें।",
+  "Gum oozing and black spots.": "गोंद निकलना और काले धब्बे।",
+  "Use antibiotics and prune infected parts.": "एंटीबायोटिक्स का उपयोग करें और संक्रमित हिस्सों को छाँटें।",
+  "Disinfect pruning tools after each cut.": "प्रत्येक कट के बाद छंटाई के उपकरणों को कीटाणुरहित करें।",
+  "Black, sooty coating on leaves and stems.": "पत्तियों और तनों पर काली, कालिख जैसी परत।",
+  "Control sap-sucking insects and wash off mold.": "रस चूसने वाले कीड़ों को नियंत्रित करें और फफूंदी को धो दें।",
+  "Improve air flow and reduce humidity.": "वायु प्रवाह में सुधार करें और आर्द्रता कम करें।",
+  "Twigs and branches die from the tip backward.": "टहनियाँ और शाखाएँ टिप से पीछे की ओर मर जाती हैं।",
+  "Prune affected branches and apply fungicide.": "प्रभावित शाखाओं को छाँटें और कवकनाशी लगाएं।",
+  "Avoid waterlogging and improve soil drainage.": "जलभराव से बचें और मिट्टी की जल निकासी में सुधार करें."
+  },
+  "diseaseNames": {
+  "anthracnose": "एन्थ्रेक्नोज",
+  "powderyMildew": "पाउडरी मिल्ड्यू",
+  "bacterialCanker": "बैक्टीरियल कैंकर",
+  "sootyMold": "कालिख फफूंदी",
+  "dieBack": "डाइबैक"
+},
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "theme": "थीम",
+    "notifications": "सूचनाएँ",
+    "privacyPolicy": "गोपनीयता नीति",
+    "termsOfService": "सेवा की शर्तें",
+    "about app": "ऐप के बारे में"
+  },
+  "preddata": {
+    "Anthracnose": "एन्थ्रेक्नोज",
+    "Powdery Mildew": "पाउडरी मिल्ड्यू",
+    "Bacterial Canker": "बैक्टीरियल कैंकर",
+    "Sooty Mold": "कालिख फफूंदी",
+    "Die Back": "डाइबैक",
+    "Gall Midge": "गैल मिड्ज",
+    "Cutting Weevil": "कटिंग वीविल",  
+    "Healthy": "स्वस्थ",
+    "Sooty Mould": "कालिख फफूंदी"
+  }
+
+
+
+
+}

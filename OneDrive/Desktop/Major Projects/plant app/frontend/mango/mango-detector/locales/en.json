@@ -1,0 +1,76 @@
+{
+  "home": {
+    "title": "Mango Disease Detector",
+    "uploadPrompt": "Upload or Take a photo of your leaf",
+    "or": "OR",
+    "analyzing": "Analyzing image...",
+    "predictedDisease": "Predicted Disease",
+    "diseaseInfo": "Disease Information",
+    "selectDisease": "Select Disease",
+    "confidenceBreakdown": "Confidence Breakdown",
+    "anthracnose": "Anthracnose",
+    "powderyMildew": "Powdery Mildew",
+    "bacterialCanker": "Bacterial Canker",
+    "sootyMold": "Sooty Mold",
+    "dieBack": "Die Back",
+    "Remove": "Remove",
+    "Confidence": "Confidence"
+  },
+  "buttons": {
+    "upload": "Upload Image",
+    "camera": "Take Photo",
+    "analyse": "Analyse"
+  },
+  "alerts": {
+    "permissionRequired": "Permission required to access media library!",
+    "apiError": "Error analyzing image. Please try again."
+  },
+  "nav": {
+    "home": "Home",
+    "history": "History",
+    "learn": "Learn",
+    "settings": "Settings"
+  },
+  "diseases": {
+    "anthracnose": "Anthracnose is a fungal disease affecting many plants. It causes dark, sunken lesions and thrives in humid environments.",
+    "powderyMildew": "Powdery mildew is a white, powdery fungal growth on leaves and stems. It thrives in dry, warm conditions with high humidity.",
+    "bacterialCanker": "Bacterial Canker causes black lesions and cracks on stems and leaves, leading to wilting and defoliation.",
+    "sootyMold": "Sooty Mold is a black fungal coating on leaves caused by insect honeydew. It blocks sunlight and reduces photosynthesis.",
+    "dieBack": "Die Back causes progressive death of shoots and branches, often due to fungal infection or environmental stress."
+  },
+  "learn": {
+    "title": "Learn about Mango Diseases",
+    "description": "Explore various mango diseases, their symptoms, and treatment options. Click on a disease to learn more.",
+    "symptoms": "Symptoms",
+    "treatment": "Treatment",
+    "more": "More Info",
+    "showMore": "Show more",
+    "hideDetails": "Hide details"
+  },
+  "history": {
+    "title": "History",
+    "message": "All previously analyzed results will show up here."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "about_app": "About App",
+    "version": "Version"
+  },
+  "preddata":{
+"Anthracnose":"Anthracnose",
+"Powdery Mildew":"Powdery Mildew",
+"Bacterial Canker":"Bacterial Canker",
+"Sooty Mould":"Sooty Mould",
+"Die Back":"Die Back",
+"Gall Midge": "Gall Midge",
+"Healthy": "Healthy",
+"Cutting Weevil": "Cutting Weevil",
+"Leaf Spot": "Leaf Spot"
+
+  }
+}

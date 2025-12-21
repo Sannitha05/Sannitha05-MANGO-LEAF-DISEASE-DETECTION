@@ -1,0 +1,63 @@
+Key Authors & Their Contributions
+1. Amisha Sharma, Rajneet Kaur Bijral, Jatinder Manhas, Vinod Sharma
+
+Study: Mango Leaf Diseases Detection using Deep Learning.
+
+Method: CNN-based approach using data augmentation to identify Anthracnose, Red rust, and Powdery mildew.
+
+Result: Achieved ~90.36% accuracy. 
+Academia
+
+2. Teena Varma, Prajwal Mate, Noamaan Abdul Azeem, Sanjeev Sharma, Bhupendra Singh
+
+Study: Automatic mango leaf disease detection using different transfer learning models.
+
+Models: VGG19, InceptionV3, ResNet152V2, DenseNet121, InceptionResNetV2, MobileNetV2, Xception.
+
+Highlight: InceptionV3 achieved 99.87% accuracy. 
+SpringerLink
+
+3. Rabia Saleem, Jamal Hussain Shah, Muhammad Sharif, Mussarat Yasmin, Hwan-Seung Yong, Jaehyuk Cha
+
+Study: Mango Leaf Disease Recognition and Classification using Novel Segmentation and Vein Pattern Technique.
+
+Technique: Leaf vein segmentation, CCA-based feature fusion, and cubic SVM classifier.
+
+Result: 95.5% accuracy. 
+MDPI
+
+4. Tanishta, Vishesh Goyal, Megha Arakeri
+
+Study: Identifying Mango Leaf Diseases with Advanced Deep Learning Approaches and Convolutional Neural Networks, presented at INCIP 2025.
+
+Method: EfficientNet model with ~12,046 images covering 9 classes (1 healthy + 8 disease types).
+
+Performance: Accuracy 98.97%, F1 Score 0.9960. 
+Manipal Academy
+
+5. Sarder Iftekhar Ahmed, Muhammad Ibrahim, Md. Nadim, Md. Mizanur Rahman, Maria Mehjabin Shejunti, Taskeed Jabid, Md. Sawkat Ali
+
+Dataset: MangoLeafBD – A Comprehensive Image Dataset to Classify Diseased and Healthy Mango Leaves.
+
+Contribution: Created a publicly available dataset of 4,000 images across seven diseases (from Bangladesh).
+
+Authors: A. Ahmed et al. 
+arXiv
+
+6. Rafi Hassan Chowdhury, Sabbir Ahmed
+
+Study: MangoLeafViT: Leveraging Lightweight Vision Transformer with Runtime Augmentation for Efficient Mango Leaf Disease Classification, May 2025.
+
+Approach: Lightweight Vision Transformer (ViT) architecture with runtime data augmentation.
+
+Results: 99.43% accuracy on the MangoLeafBD dataset with computational efficiency. 
+arXiv
+
+Summary Table
+Authors & Year	Approach / Contribution	Accuracy / Outcome
+Amisha Sharma et al.	CNN + augmentation	90.36%
+Teena Varma et al. (2024/25)	Transfer learning (InceptionV3)	99.87%
+Rabia Saleem et al.	Vein-based segmentation + SVM	95.5%
+Tanishta et al. (2025)	EfficientNet on large 9-class dataset	~98.97%
+Ahmed et al. (2022)	MangoLeafBD dataset creation	–
+Chowdhury & Ahmed (2025)	Lightweight ViT on MangoLeafBD	99.43%
